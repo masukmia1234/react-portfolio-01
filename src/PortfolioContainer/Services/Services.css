@@ -1,0 +1,31 @@
+#service{
+   margin-bottom: 50px;
+}
+.single__service{
+   background: rgba( 255, 255, 255, 0.4 );
+   box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+   backdrop-filter: blur( 16.5px );
+   -webkit-backdrop-filter: blur( 16.5px );
+   border-radius: 10px;
+   border: 1px solid rgba( 255, 255, 255, 0.18 );
+   margin-bottom: 20px;
+}
+.service__icon{
+   color: black;
+   font-size: 2rem;
+   margin-left: 20px;
+}
+.single__service h2{
+   
+   font-size: 1.5rem;
+   margin-bottom: 15px;
+   margin-top: 10px;
+   margin-left: 20px;
+   font-style: bold;
+}
+.single__service p{
+   font-weight: 20;
+   line-height: 25px;
+   margin-left: 20px;
+   font-family: 'Roboto', sans-serif;
+}
